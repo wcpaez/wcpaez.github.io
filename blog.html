@@ -18,8 +18,7 @@ permalink: /blog/
         <a href="{{ post.url || prepend: site.baseurl }}">
           <h4>{{ post.title }}</h4>
         </a>
-        
-        <p><b>Spider-Man</b> is a fictional character, a comic book superhero that appears in comic books published by Marvel Comics. Created by writer-editor Stan Lee and writer-artist Steve Ditko, he first appeared in Amazing Fantasy #15 (cover-dated Aug. 1962). </p>
+        {{ post.excerpt }}          
         <p>
           <a href="{{ post.url || prepend: site.baseurl }}">
             Continue Reading...
