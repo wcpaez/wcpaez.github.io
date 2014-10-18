@@ -1,23 +1,14 @@
 ---
 layout: default
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="container pt">
+  <div class="row mt">
+    <div class="col-lg-6 col-lg-offset-3 centered">
+      <img src="/assets/images/wcpaez_user.png" alt="wcpaez">
+      <h3>WENCESLAO CRHISTOPHER PÁEZ CHÁVEZ</h3>
+      <hr>
+      <p>Show your work here. Dribbble shots from the awesome designer <a href="http://dribbble.com/wanderingbert">David Creighton-Pester</a>.</p>
+    </div>
+  </div>
 </div>
+	
