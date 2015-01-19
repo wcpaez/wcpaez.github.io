@@ -7,7 +7,7 @@ keywords: 'aprende, enseña'
 author_avatar_path: "/assets/images/wcpaez_user.png"
 date:   2014-10-18 10:04:14
 comments: true
-categories: offtopic
+categories: blog
 ---
 
 Acabas de aprender algo nuevo? Enséñalo. Existe un estudio donde se explica las formas en que una persona aprende. Acá les dejo una gráfica resumen. 

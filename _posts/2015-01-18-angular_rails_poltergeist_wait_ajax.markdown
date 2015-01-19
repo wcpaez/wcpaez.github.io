@@ -7,7 +7,7 @@ keywords: "ruby, rails, angular, poltergeist, wait, ajax, capybara"
 author_avatar_path: "/assets/images/wcpaez_user.png"
 date:   2015-01-18 20:04:14
 comments: true
-categories: rails angular test poltergeist
+categories: blog
 ---
 
 When dealing with ajax integrations tests using Capybara and Rails, most of 
