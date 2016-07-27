@@ -1,8 +1,8 @@
 # Site settings
-title: WCPAEZ BLOG
+title: WCPAEZ BLOG | Sharing what I learned 
 email: wcpaez@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Personal blog about Angular, Ruby on Rails, Vim, TDD and others.
+description: Personal blog about every stuff that I'm doing every day on my development career. Just want to share what I learned.
+keywords: Wenceslao, Paez, Ruby on Rails, Rails, TDD, Rspec, Angular, Testing, Design Patterns, Capybara, Git
 location: 'Lima, Perú.'  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" 
